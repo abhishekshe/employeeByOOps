@@ -1,0 +1,15 @@
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\bin\Debug\net6.0\EmployeeOOps.exe
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\bin\Debug\net6.0\EmployeeOOps.deps.json
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\bin\Debug\net6.0\EmployeeOOps.runtimeconfig.json
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\bin\Debug\net6.0\EmployeeOOps.dll
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\bin\Debug\net6.0\EmployeeOOps.pdb
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\obj\Debug\net6.0\EmployeeOOps.csproj.AssemblyReference.cache
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\obj\Debug\net6.0\EmployeeOOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\obj\Debug\net6.0\EmployeeOOps.AssemblyInfoInputs.cache
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\obj\Debug\net6.0\EmployeeOOps.AssemblyInfo.cs
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\obj\Debug\net6.0\EmployeeOOps.csproj.CoreCompileInputs.cache
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\obj\Debug\net6.0\EmployeeOOps.dll
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\obj\Debug\net6.0\refint\EmployeeOOps.dll
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\obj\Debug\net6.0\EmployeeOOps.pdb
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\obj\Debug\net6.0\EmployeeOOps.genruntimeconfig.cache
+C:\Users\abhis\source\repos\EmployeeOOps\EmployeeOOps\obj\Debug\net6.0\ref\EmployeeOOps.dll
